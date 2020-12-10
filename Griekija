@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <title>Grieķija</title>
+		<style>
+		    body{
+			    width:800px;
+				margin: auto;
+			}
+			div{
+				background-color: lightblue;
+				padding: 20px; 
+			}
+			img { 
+				width: 100%;
+			} 
+		</style>
+    </head>
+	<body>
+			<h1>Grieķija</h1>
+		<div>
+				<p>Grieķija un Grieķijas salas ir slavenas ar 3 galvenajām lietām: seno civilizāciju, pārsteidzošajām ainavām un labi attīstītu tūrismu. Grieķijas galvaspilsēta un arī lielākā pilsēta ir Atēnas. Valstī dzīvo aptuveni 11 miljoni iedzīvotāju, 4 miljoni dzīvo Atēnās. Lielākās pilsētas pēc Atēnām ir Saloniki un Patra.</p>
+				<p>Grieķijā dzīvo viena no senākajām Eiropas tautām, tai ir vairākus tūkstošus gadu sena vēsture, kas aizsākās Senajā Grieķijā. Grieķija tiek uzskatīta par Rietumu kultūras šūpuli. Grieķijā ir radušās Olimpiskās spēles, filozofija, medicīna, demokrātija, literatūra un mitoloģija.</p>
+					<img src="https://www.greeka.com/photos/unique/greece/greece-history/flags/hero/greece-history-flags-1-1024.webp" />
+		<p><strong>Platība:</strong> 131 957 km2</p>
+		<p><strong>Galvaspilsēta:</strong> Atēnas</p>			
+		<p><strong>Iedzīvotāju skaits:</strong> 10,816,286 (2012.gadā)</p>			
+		<p><strong>Valsts valoda:</strong> grieķu</p>			
+		<p><strong>Valūta:</strong> eiro/EUR</p>		
+					<img src = "https://image.freepik.com/free-photo/oia-sunset-santorini-greece_218319-625.jpg"/>
+			<h2>Ģeogrāfiskais stāvoklis</h2>
+				<p>Atrodas Dienvideiropā, Balkānu pussalas dienvidos. Ziemeļos tā robežojas ar Albāniju, Ziemeļmaķedoniju un Bulgāriju, bet austrumos - ar Turciju. Austrumos to apskalo Egejas jūra, rietumos Jonijas jūra, bet dienvidos Vidusjūra. Valsts dienviddaļa atrodas Peleponēsas pussalā. Grieķijai pieder aptuveni 2000 salas, no kurām 227 ir apdzīvotas.Lielākā no salām ir Krēta. 80% no Grieķijas teritorijas ir kalni. Augstākā virsotne Grieķijā ir Olimps (2917 m).</p>
+				<p>Daudzo salu dēļ Egejas jūrā un Jonijas jūrā Grieķijai ir garākā krasta līnija Eiropā un piektā garākā krasta līnija pasaulē.</p>
+					<img src = "https://www.beautifulworld.com/wp-content/uploads/2016/10/xgreece-europe-map.jpg.pagespeed.ic.4DJt-P_F87.jpg"/>
+			<h2>Kultūra</h2>
+				<p>Brīnišķīgās reģionālās tradīcijas, reliģija, mūzika, valoda, ēdieni un vīns ir galvenie kultūras elementi Grieķijas kontinentālajā daļā un Grieķijas salās, kas rada nesalīdzināmu kultūras bāzi ikvienam, kurš vēlas apmeklēt un izprast mūsdienu Grieķiju.</p>
+				<p>Grieķija ir daudzkultūru valsts, kurai ir lielas un dažādas intereses. To ietekmēja tā atrašanās vieta Austrumu un Rietumu satekā un Grieķijas un tās iedzīvotāju pastāvīgā okupācija no romiešiem līdz pat neatkarībai no Osmaņu impērijas 19. gadsimtā.</p>
+				<p>Grieķi ir īpaši lepni par savu kultūru; viņi runā par savu valsti ar lielu aizraušanos, paužot sajūtu, ka grieķu kultūra ir viņu nacionālās un etniskās piederības definīcija.</p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/6bDrYTXQLu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<hr size = 2>
+				<p>Pārtika ikdienas dzīvē: graudi, vīnogas un olīvas ir diētas centrā, papildināts ar olām, sieru, jogurtu, zivīm, jēru, kazu, vistu, rīsiem un augļiem un dārzeņiem. Daži pārtikas produkti simbolizē nacionālo identitāti, tostarp musaka, baklava, biezā kafija un sausais baltvīns (retsina). </p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/NjYavcYK2B0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<hr size = 2>
+				<p>Lielu ietekmi uz Eiropas kultūru ir atstājusi grieķu filozofija, literatūra, kā arī mitoloģija. Grieķi ticēja, ka viņu divpadsmit galvenie dievi dzīvo Olimpa kalnā. Svarīgs reliģisks un sporta notikums bija Olimpiskās spēles, kas tika rīkotas ik pa četriem gadiem. Arī glezniecība, skulptūra un arhitektūra vēl ilgi turpināja grieķu kultūras tradīcijas, kas ļāva saglabāt tai paliekošu vietu Eiropas kultūrā.</p>
+				<p>Grieķijas un Grieķijas salu paražas un tradīcijas ir svarīgs grieķu kultūras aspekts. Ir vai nu reliģiska rakstura, vai arī nāk no pagānisma.Turklāt lielākā daļa tradīciju un svētku, kas joprojām tiek svinētas šodien, ir reliģiski.</p>
+				<p>Grieķi ir ļoti māņticīgi un daudz tic reliģijai, pat arī pārdabiskai vai paranormālai parādībai. Tradīcijas un māņticības atšķiras dažādās salās, ciematos un reģionos. </p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/1zYWazcdwco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<hr size = 2>
+			<h2>Daba</h2>
+				<p>Grieķijas dabai ir bagātīga daudzveidība. Valsts ainavu, kas atrodas trīs kontinentu (Eiropas, Āfrikas un Āzijas) krustcelēs, lielā mērā ir ietekmējuši tuvie reģioni, un tajā atrodas daudzveidīga flora un fauna.</p>
+				<p>Divas trešdaļas Grieķijas ir kalnainas, un apmēram 25% no kopējās virsmas ir meži. Šie meži lielākoties sastāv no eglēm, ozoliem, bērziem, papelēm un krūmiem. Daži atšķir kā estētiskus mežus, piemēram, Rodopi Jaunavas mežus Grieķijas ziemeļos, Ozolu mežu Folo Peloponēsā un Melno egļu mežu Kefalonijā. Lai pasargātu no cilvēku darbības, daži reģioni ir pasludināti par nacionālajiem parkiem.</p>
+				<p>Grieķijas teritorija lielākoties sastāv no kaļķakmens, tāpēc ir izveidojušās daudzas pazemes alas. Īpaši alas ar stalaktītiem un stalagmitiem ir dabas brīnums.</p>
+					<hr size = 2>
+					<iframe width="100%" height="315" src="https://www.youtube.com/embed/54xXb7R33rQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<hr size = 2>
+				<p>Populārākās salas:</p>
+				<ul type = "square">
+				<li>Krēta</li>
+				<li>Roda</li>
+				<li>Patmos</li>
+				<li>Naksos</li>
+				<li>Korfu</li>
+				<li>Milos</li>
+				<li>Zakintos</li>
+				<li>Paros</li>
+				<li>Kefalonija</li>
+				<li>Hidra</li>
+					<hr size = 2>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/hcBdFSaVCHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</ul>		
+		</div>
+	</body>
+</html>
